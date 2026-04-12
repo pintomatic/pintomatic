@@ -1,8 +1,8 @@
-### Cesar Pinto
+### pintomatic
 
 Building [Kernal](https://github.com/pintomatic/kernal) — a structured knowledge graph for AI agents.
 
-**20 years in tech consulting.** Currently building tools that give AI agents the context they need to be genuinely useful in professional services.
+20 years in tech consulting. Currently building tools that give AI agents the context they need to be genuinely useful in professional services.
 
 #### What I'm working on
 
