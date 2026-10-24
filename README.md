@@ -1,23 +1,17 @@
-### pintomatic
+### Andes
 
-Building [Kernal](https://github.com/pintomatic/kernal) — a structured knowledge graph for AI agents.
+We build tools that give AI agents the context and rules they need to do real professional work, and that leave a record a person can check.
 
-20 years in tech consulting. Currently building tools that give AI agents the context they need to be genuinely useful in professional services.
+**Open source**
+- **[Kernal](https://github.com/pintomatic/kernal)**: a local-first knowledge graph for AI agents. It turns conversations into people, organisations and relationships you own. MCP · SQLite · TypeScript.
+- **[Chasqui](https://github.com/pintomatic/chasqui)**: two coding agents and one human in a single Discord conversation. An experimental relay for Codex and Claude Code.
+- **[AWS Marketplace Operator](https://github.com/pintomatic/aws-marketplace-operator)**: an agent skill for preparing AWS Marketplace listings and co-sell packets.
+- **[Fragua](https://github.com/pintomatic/fragua)**: a plan, critique, build and review protocol for working with Claude Code.
 
-#### What I'm working on
+**Products**
+- **Calibre by Andes**: structured review for practitioner and employee decisions, with every reading traceable to its rules. Research access on request.
 
-- **[Kernal](https://github.com/pintomatic/kernal)** — Open-source knowledge graph. Auto-extracts entities and relationships from natural conversation via MCP. Local-first, SQLite, TypeScript.
-- **[Andes Labs](https://andes.no)** — The company behind Kernal. Structured knowledge for executive search, consulting, and strategic advisory.
+**How we work**
+Small, tested and honest about limits. If a doc and the code disagree, the code is the bug.
 
-#### Philosophy
-
-> "An agent without context is a chatbot. An agent with context is an employee."
-
-Better models make structured context *more* valuable, not less. Kernal is the context layer.
-
-#### Connect
-
-- Web: [andes.no](https://andes.no)
-- Email: [explore@andes.no](mailto:explore@andes.no)
-- Discord: [Andes Labs](https://discord.gg/U8d6mwz7)
-
+[andes.no](https://andes.no) · [explore@andes.no](mailto:explore@andes.no)
